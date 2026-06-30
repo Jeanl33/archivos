@@ -12,7 +12,7 @@ st.set_page_config(
 
 # Título principal
 <<<<<<< HEAD
-st.title("🚀 Mi Primera App Streamlit en Docker y ACR para todos 6666666666los papus")
+st.title("🚀 Mi Primera App Streamlit en Docker y ACR pra todos 6666666666lofdsfdsfddsfdsfdsfdfdsfds papus")
 =======
 st.title("🚀 Mi Primera App Streamlit en Dogwesgesgsegegker y pene")
 st.markdown("---")
