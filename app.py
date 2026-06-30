@@ -5,16 +5,13 @@ import plotly.express as px
 
 # Configuración de la página
 st.set_page_config(
-    page_title="Mi verga app Streamlit",
+    page_title="Mi App Streamlit",
     page_icon="🚀",
     layout="wide"
 )
 
 # Título principal
-<<<<<<< HEAD
-st.title("🚀 Mi Primera App Streamlit en Docker y ACR pra todos 6666666666lofdsfdsfddsfdsfdsfdfdsfds papus")
-=======
-st.title("🚀 Mi Primera App Streamlit en Dogwesgesgsegegker y pene")
+st.title("🚀 Mi Primera App Streamlit en Docker")
 st.markdown("---")
 
 # Sidebar
